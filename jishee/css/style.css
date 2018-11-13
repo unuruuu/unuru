@@ -1,0 +1,26 @@
+.clearfix{
+	clear:both;
+}
+
+h1{
+	text-align: center;
+}
+
+input{
+	 display: inline-block;
+	  border-radius: 8px;
+	  background-color: #FFE4B5;
+	  border: none;
+	  color: #FFFFFF;
+	  text-align: center;
+	  padding: 7px;
+	  width: 120px;
+	  transition: all 0.5s;
+	  cursor: pointer;
+	  position: center;
+}
+
+input:hover {
+  padding-right: 25px;
+  background-color:	#FF7F50;
+}
